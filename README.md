@@ -10,6 +10,8 @@
 
 不确定免杀效果如何，核心部分借鉴大佬的代码然后自己造轮子
 
+使用参考视频：https://www.bilibili.com/video/BV1iu411d7QB
+
 ![LOGO](/img/logo.png)
 
 ### 准备工作
