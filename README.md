@@ -12,6 +12,8 @@
 
 使用参考视频：https://www.bilibili.com/video/BV1iu411d7QB
 
+**注意：如果出现error错误请自行检查代码，代码在windows 10下go 1.17且依赖完善的情况下测试不存在错误**
+
 ![LOGO](/img/logo.png)
 
 ### 准备工作
